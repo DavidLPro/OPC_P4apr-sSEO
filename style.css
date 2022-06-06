@@ -575,6 +575,7 @@ a[data-lightbox]:hover img {
 #lightbox-modal .modal-dialog img {
     max-height: 90vh;
     margin: 0 auto;
+    width: 60%;
 }
 
 .lightbox-caption {
@@ -765,7 +766,7 @@ h4 {
 }
 
 .bgc-white {
-    background-color: #f6f6f6f6;
+    background-color: #FFFFFF;
 }
 
 .bgc-dark-slate-blue {
